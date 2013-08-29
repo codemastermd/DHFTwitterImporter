@@ -7,7 +7,7 @@ Digital Harbor Foundation - Twitter Importer
 
 **Authors:**
 
-* Chris Sullivan
+* [Chris Sullivan](http://www.chrissul.com)
 * [Shawn Grimes](http://www.shawngrimes.me)
 
 
